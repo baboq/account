@@ -1,0 +1,10 @@
+tornado>=4.3
+PyYAML==3.11
+click>=6.6
+layered-yaml-attrdict-config==16.1.0
+webargs==1.6.0
+pytest>=2.9.2
+envelopes==0.4
+apscheduler==3.3.1
+requests==2.11.0
+pylint>=1.6.4
